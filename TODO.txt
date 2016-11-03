@@ -1,0 +1,10 @@
+# To do list
+
+Add Travis integration placeholders: dummy yaml and unit tests
+Add real repositories
+Next meeting week Nov 21st
+Send out more invitations to others in metab meetings
+?
+
+
+
