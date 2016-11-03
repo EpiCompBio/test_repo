@@ -65,4 +65,5 @@ write.table(out_table, file = output_file, append = FALSE, col.names=TRUE,
 write.table(out_p_cutoff_table, file = output_file_cutoff, append = FALSE, col.names=TRUE,
             row.names=FALSE, sep='\t', quote= FALSE)
 
+sessionInfo()
 quit()
